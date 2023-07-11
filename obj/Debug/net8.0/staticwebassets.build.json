@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "R6kfVzhVOHMNhJIhxUeXx/4dSUrWfj9BL13kyS2AgGQ=",
+  "Source": "CHAPTER 4",
+  "BasePath": "_content/CHAPTER 4",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Puja\\Desktop\\C#\\CHAPTER 4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CHAPTER 4.styles.css",
+      "SourceId": "CHAPTER 4",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Puja\\Desktop\\C#\\CHAPTER 4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/CHAPTER 4",
+      "RelativePath": "CHAPTER 4.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Puja\\Desktop\\C#\\CHAPTER 4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CHAPTER 4.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Puja\\Desktop\\C#\\CHAPTER 4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CHAPTER 4.bundle.scp.css",
+      "SourceId": "CHAPTER 4",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Puja\\Desktop\\C#\\CHAPTER 4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/CHAPTER 4",
+      "RelativePath": "CHAPTER 4.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Puja\\Desktop\\C#\\CHAPTER 4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CHAPTER 4.bundle.scp.css"
+    }
+  ]
+}

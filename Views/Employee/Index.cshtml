@@ -1,0 +1,35 @@
+@model List<Employee>
+<table class="table table-striped">
+  <head>
+    <tr>
+     <th scope="col">id</th>
+      <th scope="col">firstname</th>
+      <th scope="col">lastname</th>
+      <th scope="col">salary</th>
+      <th scope="col"> gender</th>
+    </tr>
+    
+     
+     @foreach( var employ in Model) {
+      
+        string fn= employ.firstname;
+      
+      <tr>
+      <td>@employ.id</td>
+      <td> <a href="/employee/detail?id=@employ.id">@employ.id</a> </td>   @*<td> <a href="/employee/detail?firstname=@fn">@fn</a> </td> *@
+      <td>@employ.lastname</td>
+      <td>@employ.salary</td>
+     <td>@employ.Gender</td> 
+     </tr>
+     }
+
+ 
+  </head>
+  <body>
+   
+  </body>
+</table>
+
+
+
+
